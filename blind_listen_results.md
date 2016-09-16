@@ -8,6 +8,7 @@ Files: https://www.dropbox.com/s/bjszv2kjdzk30c3/blind_listen.zip?dl=0
 
 ### Tests
 Each vote is marked as a (+) next to the randomized file name.
+
 1. Which of these wav => source file encodings sound better?
     * **Winner**: WAV => FLAC
     * Listeners commented that the audio quality was very close.
