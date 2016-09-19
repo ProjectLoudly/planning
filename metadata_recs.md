@@ -42,15 +42,15 @@ can be found here (https://resourcecenter.odee.osu.edu/digital-media-production/
 recognizes new episodes.
 
 ## Supported metadata tags:
-* title: (required) name of the episode or title of the piece
-* album: name of the podcast series or show the piece belongs to. If the segment does not belong to a show,
+* **title**: (required) name of the episode or title of the piece
+* **album**: name of the podcast series or show the piece belongs to. If the segment does not belong to a show,
 this is fine to leave blank.
-* description: populated from the CMS if an article or post has already been created about this segment.
-* author: host(s)
-* year: automatically populated with the current year.
-* copyright: automatically populated based on the organization.
-* genre: [ podcast | speech | vocal ] automatically populated to 'speech' 
-* album art: Either the logo/art for the show the segment belongs to, or specific art relating to the segment.  This
+* **description**: populated from the CMS if an article or post has already been created about this segment.
+* **author**: host(s)
+* **year**: automatically populated with the current year.
+* **copyright**: automatically populated based on the organization.
+* **genre**: [ podcast | speech | vocal ] automatically populated to 'speech' 
+* **album art**: Either the logo/art for the show the segment belongs to, or specific art relating to the segment.  This
 is what shows up in the iPhone 'locked' screen when audio is playing.
 
  
