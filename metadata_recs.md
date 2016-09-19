@@ -41,17 +41,16 @@ can be found here (https://resourcecenter.odee.osu.edu/digital-media-production/
 * We should implement at least the GUID tag listed in the specs above since that's how iTunes
 recognizes new episodes.
 
-## Recommended metadata tags:
-* title: name of the episode or title of the piece
+## Supported metadata tags:
+* title: (required) name of the episode or title of the piece
+* album: name of the podcast series or show the piece belongs to. If the segment does not belong to a show,
+this is fine to leave blank.
+* description: populated from the CMS if an article or post has already been created about this segment.
 * author: host(s)
-* album: name of the podcast series or show the piece belongs to
-* track: podcast or episode number, for ordering chronologically when created or updated date is not
- available.
-* copyright
-* description
-* year: year this piece was first published
-* genre: [ podcast | speech | vocal ]
-* cover art
-
+* year: automatically populated with the current year.
+* copyright: automatically populated based on the organization.
+* genre: [ podcast | speech | vocal ] automatically populated to 'speech' 
+* album art: Either the logo/art for the show the segment belongs to, or specific art relating to the segment.  This
+is what shows up in the iPhone 'locked' screen when audio is playing.
 
  
