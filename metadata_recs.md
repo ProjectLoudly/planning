@@ -42,6 +42,11 @@ can be found here (https://resourcecenter.odee.osu.edu/digital-media-production/
 recognizes new episodes.
 
 ## Supported metadata tags:
+These tags are listed in order of importance. Note that the only required tag is 'title'.  We want to make
+content creation and uploading as easy as possible so we err on the side of less data entry. On
+the flip side, adding any of the other additional tags (below 'title') will only help in categorizing
+and later searching for a particular audio file so it is up to the team's discretion.
+ 
 * **title**: (required) name of the episode or title of the piece
 * **album**: name of the podcast series or show the piece belongs to. If the segment does not belong to a show,
 this is fine to leave blank.
